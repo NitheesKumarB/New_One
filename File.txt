@@ -1,3 +1,7 @@
 Scenario : buy a product
 
+// By teammate
 Scenario : Buy a Phone
+// By me
+Scenario : Buy a phone
+
