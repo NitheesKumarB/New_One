@@ -1,1 +1,3 @@
 Scenario : buy a product
+
+Scenario : Buy a phone
