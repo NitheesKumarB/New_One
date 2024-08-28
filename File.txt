@@ -5,3 +5,4 @@ Scenario : Buy a Phone
 // By me
 Scenario : Buy a phone
 
+Scenario : Buy a lap
